@@ -1,5 +1,5 @@
 {
-  "name": "express-mesto-gha",
+  "name": "mesto-server",
   "version": "1.0.0",
   "description": "Server on Express.js with MongoDB. Backend for Mesto project",
   "main": "app.js",
